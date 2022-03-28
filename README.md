@@ -1,14 +1,17 @@
 ### Hi there 👋
 
- My name is Orhun Onar. I am a Mechatronics Engineer. I am working on Python - Golang - Flutter/Dart on the Developer Side. I am also good at C#,C++,Java and Javascript.
+ My name is Orhun Onar. I am a Mechatronics Engineer. You can find my qualificated topics below :arrow_down:
 
-- 🔭 I’m currently an Udemy Instructor => https://www.udemy.com/user/orhun-onar/
+- :book: I’m an Udemy Instructor => https://www.udemy.com/user/orhun-onar/
 - :notebook: I’m an Author on Medium => https://orhunonar.medium.com/
 - :clipboard: You can reach my LinkedIn account right there => https://www.linkedin.com/in/orhun-onar/
-## Qualifications: 
-  # Image Processing Projects: 
+
+For project offers, please send mail to my alumni e-mail adress => orhun.onar_2021@alu.ieu.edu.tr
+
+# Qualifications: 
+  ### Image Processing Projects: 
     -Python
-  # Robotics Projects: 
+  ### Robotics Projects: 
     - Python
     - C ++ 
     - ROS
@@ -18,26 +21,26 @@
     - PyQt
     - Rvitz
     - Gazebo
-  # Machine Learning Projects 
+  ### Machine Learning Projects 
     - Python
     - Amazon SageMaker
-  # Cyber Security Projects
+  ### Cyber Security Projects
     - Armitage
     - Burpsuite
     - Maltego
     - Aircrack-ng
     - Nmap / SqlMap
-  # Data Science
+  ### Data Science
     - Python
     - Postgresql / SqlLite
-  # Mobil Apps
+  ### Mobil Apps
     - Flutter/Dart
     - Firebase
     - Golang(For Restful APIs)
-  # Blockchain Projects
+  ### Blockchain Projects
     - Javascript / NodeJS
     - NEAR and Ethereum
     - Galanche
     - MetaMask
-  # Windows Applicaitons 
+  ### Windows Applicaitons 
     - C#  
