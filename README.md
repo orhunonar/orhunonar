@@ -3,8 +3,8 @@
  My name is Orhun Onar. I am a Mechatronics Engineer. You can find my qualificated topics below :arrow_down:
 
 - :book: I’m an Udemy Instructor => https://www.udemy.com/user/orhun-onar/
-- :notebook: I’m an Author on Medium => https://orhunonar.medium.com/
 - :clipboard: You can reach my LinkedIn account right there => https://www.linkedin.com/in/orhun-onar/
+- :mag: You can reach my Website r=> www.orhunonar.com
 
 For project offers, please send mail to my alumni e-mail adress => orhun.onar_2021@alu.ieu.edu.tr
 
